@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there
+# Happy Day
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&height=28&lines=My+name+is+MarioMang)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/mariomang?color=%2368945C&label=Follow&logoColor=%2368945C&style=flat-square)](https://github.com/mariomang)
 [![Github](https://img.shields.io/github/stars/mariomang?color=%2368945C&label=Stars&style=flat-square)](https://github.com/mariomang)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mariomang.visitor&left_color=#68945C&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mariomang.visitor&left_color=%23424242&right_color=%2368945C)
 
 I'm a Golang cloud development engineer and I'm working hard to learn the technology and create something to contribute to some open source projects.
 
@@ -40,11 +40,27 @@ here is my [blog](https://blog.darkiiiiiice.com)
 ![K8s](https://img.shields.io/badge/kubernetes-424242?style=flat&logo=kubernetes&logoColor=F9BC2F)
 ![Docker](https://img.shields.io/badge/docker-424242?style=flat&logo=docker&logoColor=F9BC2F)
 
+![](https://skillicons.dev/icons?i=linux,bsd,vim,neovim,bash,github,git,vscode,go,rust,c,swift,flutter,postgres,docker,kubernetes")
+
 # GitHub Analytics
 
+![Mariomang's github trophy](https://github-profile-trophy.vercel.app/?username=mariomang&theme=gruvbox&row=1&column=&no-frame=true&no-bg=true)
 ![MarioMang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariomang&theme=gruvbox)
-![MarioMang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomang&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomang&layout=compact&theme=gruvbox)
+
+<!-- MarioMang's GitHub stats -->
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=mariomang&show_icons=true&theme=gruvbox" alt="typing-svg">
+</p>
+<!-- Top Langs -->
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomang&layout=compact&theme=gruvbox" alt="typing-svg">
+</p>
+
+#
+<!-- GitHub Streak -->
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=mariomang&theme=gruvbox-duo&hide_border=true&date_format=%5BY.%5Dn.j" alt="typing-svg">
+</p>
 
 # Party Parrot
 
