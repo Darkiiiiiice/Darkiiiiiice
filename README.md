@@ -32,13 +32,13 @@ here is my [blog](https://blog.darkiiiiiice.com)
 ## Skills
 
 ---
-![Go](https://img.shields.io/badge/-Go-68945C?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-bd93f9?style=flat&logo=rust)
-![C](https://img.shields.io/badge/-C-bd93f9?style=flat&logo=C)
-![Swift](https://img.shields.io/badge/swift-bd93f9?style=flat&logo=swift)
+![Go](https://img.shields.io/badge/-Go-424242?style=flat-square&logo=go&logoColor=F9BC2F)
+![Rust](https://img.shields.io/badge/-Rust-424242?style=flat&logo=rust&logoColor=F9BC2F)
+![C](https://img.shields.io/badge/-C-424242?style=flat&logo=C&logoColor=F9BC2F)
+![Swift](https://img.shields.io/badge/swift-424242?style=flat&logo=swift&logoColor=F9BC2F)
 
-![K8s](https://img.shields.io/badge/kubernetes-bd93f9?style=flat&logo=kubernetes)
-![Docker](https://img.shields.io/badge/docker-bd93f9?style=flat&logo=docker)
+![K8s](https://img.shields.io/badge/kubernetes-424242?style=flat&logo=kubernetes&logoColor=F9BC2F)
+![Docker](https://img.shields.io/badge/docker-424242?style=flat&logo=docker&logoColor=F9BC2F)
 
 # GitHub Analytics
 
