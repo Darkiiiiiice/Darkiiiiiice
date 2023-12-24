@@ -1,5 +1,5 @@
 <!--
-**MarioMang/MarioMang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Darkiiiiiice/Darkiiiiiice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&height=28&lines=My+name+is+Darkiiiiiice)](https://git.io/typing-svg)
 
-[![Github](https://img.shields.io/github/followers/mariomang?color=%2368945C&label=Follow&logoColor=%2368945C&style=flat-square)](https://github.com/Darkiiiiiice)
-[![Github](https://img.shields.io/github/stars/mariomang?color=%2368945C&label=Stars&style=flat-square)](https://github.com/Darkiiiiiice)
+[![Github](https://img.shields.io/github/followers/Darkiiiiiice?color=%2368945C&label=Follow&logoColor=%2368945C&style=flat-square)](https://github.com/Darkiiiiiice)
+[![Github](https://img.shields.io/github/stars/Darkiiiiiice?color=%2368945C&label=Stars&style=flat-square)](https://github.com/Darkiiiiiice)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkiiiiiice.visitor&left_color=%23424242&right_color=%2368945C)
 
 I'm a Golang cloud development engineer and I'm working hard to learn the technology and create something to contribute to some open source projects.
@@ -44,10 +44,10 @@ here is my [blog](https://blog.darkiiiiiice.com)
 
 # GitHub Analytics
 
-![Mariomang's github trophy](https://github-profile-trophy.vercel.app/?username=Darkiiiiiice&theme=gruvbox&row=1&column=&no-frame=true&no-bg=true)
-![MarioMang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darkiiiiiice&theme=gruvbox)
+![Darkiiiiiice's github trophy](https://github-profile-trophy.vercel.app/?username=Darkiiiiiice&theme=gruvbox&row=1&column=&no-frame=true&no-bg=true)
+![Darkiiiiiice's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darkiiiiiice&theme=gruvbox)
 
-<!-- MarioMang's GitHub stats -->
+<!-- Darkiiiiiice's GitHub stats -->
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Darkiiiiiice&show_icons=true&theme=gruvbox" alt="typing-svg">
 </p>
