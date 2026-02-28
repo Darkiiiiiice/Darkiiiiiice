@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:  # Allow manual trigger
 
+concurrency:
+  group: update-game
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -13,6 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull --rebase origin main
 
       - uses: czl9707/gh-space-shooter@v1
         with:
