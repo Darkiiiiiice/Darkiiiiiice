@@ -44,17 +44,7 @@ here is my [blog](https://blog.darkiiiiiice.com)
 
 # GitHub Analytics
 
-![Darkiiiiiice's github trophy](https://github-profile-trophy.vercel.app/?username=Darkiiiiiice&theme=gruvbox&row=1&column=&no-frame=true&no-bg=true)
-![Darkiiiiiice's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darkiiiiiice&theme=gruvbox)
-
-<!-- Darkiiiiiice's GitHub stats -->
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Darkiiiiiice&show_icons=true&theme=gruvbox" alt="typing-svg">
-</p>
-<!-- Top Langs -->
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkiiiiiice&layout=compact&theme=gruvbox" alt="typing-svg">
-</p>
+![My GitHub Game](game.gif)
 
 #
 <!-- GitHub Streak -->
